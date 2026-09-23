@@ -1,7 +1,7 @@
 /**
  * ====================================================================
  *  ⚡ ARCEUS XD — MULTI-DEVICE WHATSAPP AUTOMATION BOT
- *  Author: Arceus Team
+ *  Author: Soumik
  *  Version: 2.4.0
  *  Engine: @whiskeysockets/baileys (Multi-Device)
  * ====================================================================
