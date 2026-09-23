@@ -1,7 +1,7 @@
 # ⚡ Arceus XD — Next-Gen Multi-Device WhatsApp Bot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arceus-dev/assets/main/banner.png" alt="Arceus XD Banner" width="700" onerror="this.style.display='none'"/>
+  <img src="https://i.ibb.co/670Zp3Kd/44d2d9e9290c.jpg" alt="Arceus XD Banner" width="700" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
