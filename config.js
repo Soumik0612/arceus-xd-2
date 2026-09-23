@@ -9,14 +9,14 @@ module.exports = {
   // Bot Identity
   BOT_NAME: process.env.BOT_NAME || 'Arceus XD',
   VERSION: '2.4.0',
-  OWNER_NAME: process.env.OWNER_NAME || 'Arceus Master',
-  OWNER_NUMBER: (process.env.OWNER_NUMBER || '15550192834').replace(/[^0-9]/g, ''),
-  SUDO_USERS: (process.env.SUDO_USERS || '15550192834,15559876543').split(',').map(s => s.trim().replace(/[^0-9]/g, '')),
+  OWNER_NAME: process.env.OWNER_NAME || 'Soumik',
+  OWNER_NUMBER: (process.env.OWNER_NUMBER || '918420027377').replace(/[^0-9]/g, ''),
+  SUDO_USERS: (process.env.SUDO_USERS || ',').split(',').map(s => s.trim().replace(/[^0-9]/g, '')),
 
   // Command Prefix Settings
   PREFIX: process.env.PREFIX || '.',
   MULTI_PREFIX: true,
-  ACCEPTED_PREFIXES: ['.', '!', '#', '/', '$', '?'],
+  ACCEPTED_PREFIXES: ['.', '!', '#', '/', '$', 'none'],
 
   // Work Mode: 'public' (everyone can use commands) or 'private' (owner/sudo only)
   WORK_TYPE: process.env.WORK_TYPE || 'public',
